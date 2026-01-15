@@ -6,7 +6,7 @@
 
 
 
-Welcome to my GitHub profile — a collection of independent and side projects in artificial intelligence, machine learning, and quantum computing.  
+Welcome to my GitHub profile! Here is a collection of independent and side projects that include artificial intelligence, machine learning, and quantum computing.  
 
 These repositories represent personal experimentation and selected coursework projects, extended beyond my professional work at my day job.
 
