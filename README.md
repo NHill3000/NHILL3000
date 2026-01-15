@@ -44,8 +44,10 @@ My goal is to combine scientific understanding with practical AI applications th
 
 - **Programming:** Python
 - **Machine Learning & AI:** Deep Learning, NLP, Computer Vision, Reinforcement Learning, Generative AI
+- **Quantum Computing:** Quantum Algorithms, Quantum Machine Learning (QML), Hybrid Quantum-Classical Models
 
-- **Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV
+- **Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV, Qiskit, PennyLane
+
 
 
 
