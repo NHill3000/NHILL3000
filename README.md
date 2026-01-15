@@ -124,10 +124,3 @@ My goal is to combine scientific understanding with practical AI applications th
 
 
 ---
-
-
-
-> “Applied intelligence is not just about building models — it’s about understanding systems, constraints, and the science behind decisions.”  
-
-> — Nick Hill
-
