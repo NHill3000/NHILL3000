@@ -1,4 +1,4 @@
-# Hi, I'm Nick Hill
+# Hi, I'm Nick 
 
 
 
@@ -62,14 +62,7 @@ My goal is to combine scientific understanding with practical AI applications th
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-
+  
 </p>
 
 
@@ -141,25 +134,14 @@ My goal is to combine scientific understanding with practical AI applications th
 
 
 
-- 🏅 **Member**, British Computer Society (BCS)
+- 🏅 **Member**, American Chemical Society (ACS)
 
-- 🎓 **Programming for Data Science with Python** – _Udacity_
+- **Graduate Cert in AI/ML Business Pricapals**, Univerisity of Texas at Austin 
 
-
-
----
-
+- 🎓 **Quantum Computing Graduate Cert** – 
+[![University of Rhode Island](https://img.shields.io/badge/University%20of%20Rhode%20Island-002147.svg?style=for-the-badge&logo=academia&logoColor=white)](https://web.uri.edu/)
 
 
-## 📊 GitHub Insights
-
-
-
-![Top Languages](https://gh-readme-profile.vercel.app/api?username=Nhill3000&theme=radical)
-
-
-
----
 
 
 
@@ -169,7 +151,6 @@ My goal is to combine scientific understanding with practical AI applications th
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
 
-[![Thermo Fisher Scientific](https://img.shields.io/badge/Thermo%20Fisher%20Scientific-E41E26.svg?style=for-the-badge&logo=chemex&logoColor=white)](https://www.thermofisher.com/)  
 
 [![University of Rhode Island](https://img.shields.io/badge/University%20of%20Rhode%20Island-002147.svg?style=for-the-badge&logo=academia&logoColor=white)](https://web.uri.edu/)
 
