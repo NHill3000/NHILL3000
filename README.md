@@ -136,23 +136,18 @@ My goal is to combine scientific understanding with practical AI applications th
 
 - 🏅 **Member**, American Chemical Society (ACS)
 
-- **Graduate Cert in AI/ML Business Pricapals**, Univerisity of Texas at Austin 
+- **Graduate Cert in AI/ML Business Pricapals**, Univerisity of Texas at Austin
 
-- 🎓 **Quantum Computing Graduate Cert** – 
+  [![University of Texas](https://img.shields.io/badge/University%20of%20Texas-FF6A13.svg?style=for-the-badge&logo=academia&logoColor=white)](https://www.utexas.edu/)
+
+- 🎓 **Quantum Computing Graduate Cert** –
+  
 [![University of Rhode Island](https://img.shields.io/badge/University%20of%20Rhode%20Island-002147.svg?style=for-the-badge&logo=academia&logoColor=white)](https://web.uri.edu/)
 
 
 
 
 
-## 🌐 Connect
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-
-
-[![University of Rhode Island](https://img.shields.io/badge/University%20of%20Rhode%20Island-002147.svg?style=for-the-badge&logo=academia&logoColor=white)](https://web.uri.edu/)
 
 
 
