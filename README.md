@@ -28,7 +28,7 @@ I have over 10 years of experience spanning chemical R&D. In my most recent role
 
 
 
-This GitHub serves as a space to complement that work showing how I explore, build, and reason about AI systems independently. As well as the work I do in quantum computing courses.
+This GitHub serves as a space to complement that work showing how I explore, build, and reason about AI systems independently. As well as the work I do in my quantum computing courses.
 
 My goal is to combine scientific understanding with practical AI applications that are reproducible, interpretable, and relevant to real-world challenges.
 
