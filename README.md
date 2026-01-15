@@ -79,9 +79,12 @@ My goal is to combine scientific understanding with practical AI applications th
 
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/PennyLane-0A1AFF?style=for-the-badge&logo=pennylane&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white"/>
+
 
 
 </p>
