@@ -91,30 +91,6 @@ My goal is to combine scientific understanding with practical AI applications th
 
 
 
-### Databases
-
-
-
-<p>
-
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white"/>
-
-</p>
-
-
-
----
-
-
-
 ## Research & Projects
 
 
@@ -138,7 +114,7 @@ My goal is to combine scientific understanding with practical AI applications th
 
 - **Graduate Cert in AI/ML Business Pricapals**, Univerisity of Texas at Austin
 
-  [![University of Texas](https://img.shields.io/badge/University%20of%20Texas-FF6A13.svg?style=for-the-badge&logo=academia&logoColor=white)](https://www.utexas.edu/)
+[![University of Texas](https://img.shields.io/badge/University%20of%20Texas-FF6A13.svg?style=for-the-badge&logo=academia&logoColor=white)](https://www.utexas.edu/)
 
 - 🎓 **Quantum Computing Graduate Cert** –
   
