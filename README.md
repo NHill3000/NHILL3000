@@ -112,7 +112,7 @@ My goal is to combine scientific understanding with practical AI applications th
 
 - 🏅 **Member**, American Chemical Society (ACS)
 
-- **Graduate Cert in AI/ML Business Pricapals**, Univerisity of Texas at Austin
+- **Graduate Cert in AI/ML Business Pricapals** -
 
 [![University of Texas](https://img.shields.io/badge/University%20of%20Texas-FF6A13.svg?style=for-the-badge&logo=academia&logoColor=white)](https://www.utexas.edu/)
 
