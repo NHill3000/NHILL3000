@@ -50,11 +50,11 @@ My goal is to combine scientific understanding with practical AI applications th
 
 
 
-## 💻 Tech Stack & Tools
+## Tech Stack & Tools
 
 
 
-### 🖥️ Languages
+### Languages
 
 
 
