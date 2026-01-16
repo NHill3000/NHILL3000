@@ -1,8 +1,6 @@
-# Hi, I'm Nick 
 
 
-
-### Chemoinformatics Leader | ⚛️ Applied AI Practitioner | 🧬 Quantum Computing Enthusiast
+### Chemoinformatics Leader | Applied AI Practitioner | Quantum Computing Enthusiast
 
 
 
