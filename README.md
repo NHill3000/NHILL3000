@@ -18,7 +18,7 @@ Proprietary or internal cheminformatics work from my professional role is intent
 
 
 
-## 🧪 About Me
+## About Me
 
 
 
